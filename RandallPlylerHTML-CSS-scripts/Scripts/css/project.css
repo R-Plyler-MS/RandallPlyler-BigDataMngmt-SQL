@@ -1,0 +1,88 @@
+Html {
+	background-color: #a2b2c1;
+	
+}
+
+.image {
+	position: relative;
+}
+
+.services {
+	padding-right: 5px;
+}
+
+.about {
+	padding-right: 5px;
+}
+
+.issues {
+	padding-right: 5px;
+}
+
+.header {
+	background-color: ###f0e3c5;
+	text-align: center;
+	font-family: Calibri, sans-serif;
+	padding: 10px;
+	font-size: 50px;
+	font-weight: bold;
+	color: #f0e3c5;	
+	font-style: italic;
+	display: inline-block;
+	margin-left: 40px;
+	position: relative;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a2b2c1;
+  position: relative;
+  border: 2px double;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 500px; 
+  display: inline;
+  padding: 20px;
+  
+}
+
+li {
+	display: inline-block;
+	margin: 0px;
+	border-right:1px solid white;
+}
+
+li:last-child {
+	border-right: 0px;
+}
+
+li a {
+  display: inline-block;
+  color: #f0e3c5;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+  font-family: Arial, sans-serif;
+}
+li a:hover:not(.active) {
+  background-color: #FFD7D7;
+}
+
+h1 {
+	font-size: 22;
+	color: #FFE9E9;
+}
+
+.paragraph1 {
+	font-size: 16px;
+	max-width: 500px;
+	font-family: Helvetica;
+	margin-left: 20px;
+	line-height: 1.2em;
+}
+
+
+
